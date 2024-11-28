@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkancancaglayan" alt="serkancancaglayan" /></a> </p>
 
-- 🔭 I’m currently working on **Heart rate measurement with remote photoplethysmography (RPPG) signals**
 
 - 📫 How to reach me **serkan.can.caglayan99@gmail.com**
 
